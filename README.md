@@ -67,8 +67,8 @@
 
 ## Contact Information
 
-### <a href="mailto:josephwstone@gmail.com" target="_blank">Gmail</a>
+### [Gmail](mailto:josephwstone@gmail.com)
 
-### <a href="https://trailblazer.me/id/stonengineer" target="_blank">Salesforce Trailhead</a>
+### [Salesforce Trailhead](https://trailblazer.me/id/stonengineer)
 
-### <a href="https://www.linkedin.com/in/joseph-stone-5a6204b9/" target="_blank">LinkedIn</a>
+### [LinkedIn](https://www.linkedin.com/in/joseph-stone-5a6204b9/)
